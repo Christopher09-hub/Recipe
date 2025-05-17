@@ -1,0 +1,10 @@
+button {
+    text-decoration: none;
+    padding: 20px;
+    margin: 200px;
+    color: aliceblue;
+    background-color: brown;
+}
+a[href*="allrecipe"]{
+    text-decoration: none;
+}
